@@ -6,17 +6,17 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
+<a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=580&lines=Data+Analyst;Business+Intelligence+Enthusiast;SQL+Specialist;Python+Developer;Power+BI+Developer;Financial+Analytics+Explorer;Data+Storyteller" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/prem-kare-0861a5274)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prem%20Kare-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/prem-kare-0861a5274)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-premkare143-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/premkare143)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EC4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:premkare143@gmail.com)
+[![Email](https://img.shields.io/badge/Email-premkare143%40gmail.com-EC4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:premkare143@gmail.com)
 
 <br/>
 
@@ -170,49 +170,7 @@ An end-to-end sales analytics project designed to uncover revenue trends, custom
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/premkare143/premkare143/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/premkare143/premkare143/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution-snake" src="https://raw.githubusercontent.com/premkare143/premkare143/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
-</div>
-
----
-
-## My Analytics Mindset
-
-<div align="center">
-
-<br/>
-
-> **"Every dataset contains a story.**
-> **My goal is to uncover patterns, generate insights,**
-> **and transform information into decisions that create measurable impact."**
-
-<br/>
-
-</div>
-
----
-
-<div align="center">
-
-```
-                          ___
-                      .-'   `'.
-                     /         \
-                     |    _ _   |         S O A R
-                     |   (/ \)  |      beyond the noise
-                      \        /     find what matters most
-                  /`-. '-.__.-' .-`\
-                 / /`. `._____.' ,`\ \
-                / /   `-.___.-'   \ \ \
-               (_/                 \_)
-
-        ─────────────────────────────────────────────
-        "Like a falcon that spots its prey from miles
-         above — precision, focus, and clarity are
-         the marks of great data analysis."
-        ─────────────────────────────────────────────
-```
 
 </div>
 
@@ -234,7 +192,7 @@ An end-to-end sales analytics project designed to uncover revenue trends, custom
 
 <br/>
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/prem-kare-0861a5274)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-Prem%20Kare-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/prem-kare-0861a5274)
 
 <br/>
 
