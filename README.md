@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,0B1120,38BDF8&height=220&section=header&text=Prem%20Kare&fontSize=72&fontColor=F8FAFC&animation=fadeIn&fontAlignY=50&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20Power%20BI%20%7C%20SQL%20%7C%20Python&descAlignY=70&descSize=16&descColor=94A3B8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,0B1120,38BDF8&height=280&section=header&text=Prem%20Kare&fontSize=58&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20Power%20BI%20%7C%20SQL%20%7C%20Python&descAlignY=56&descSize=16&descColor=94A3B8" />
 
 </div>
 
@@ -17,12 +17,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-premkare143-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/premkare143)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-premkare143%40gmail.com-EC4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:premkare143@gmail.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=premkare143&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS)
-&nbsp;
-![Followers](https://img.shields.io/github/followers/premkare143?style=for-the-badge&color=8B5CF6&label=FOLLOWERS)
 
 </div>
 
@@ -163,7 +157,7 @@ An end-to-end sales analytics project designed to uncover revenue trends, custom
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=premkare143&theme=react-dark&bg_color=0B1120&color=38BDF8&line=8B5CF6&point=EC4899&area=true&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=premkare143&theme=algolia&no-frame=true&no-bg=false&margin-w=8&margin-h=8&column=4&row=2&title=Commits,Stars,Repositories,Followers,PullRequest,Issues" />
 
 <br/>
 
@@ -185,14 +179,6 @@ An end-to-end sales analytics project designed to uncover revenue trends, custom
 **📊 Transforming Data Into Business Impact**
 
 **🚀 Always Learning. Always Improving.**
-
-<br/>
-
-*Let's connect and build data-driven solutions together.*
-
-<br/>
-
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-Prem%20Kare-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/prem-kare-0861a5274)
 
 <br/>
 
