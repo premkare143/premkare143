@@ -157,6 +157,10 @@ An end-to-end sales analytics project uncovering revenue trends, customer behavi
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=premkare143&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=EC4899&fire=F97316&currStreakLabel=ffffff"/>
 
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=premkare143&bg_color=0D1117&color=EC4899&line=8B5CF6&point=F97316&area=true&area_color=8B5CF6&hide_border=true&title_color=EC4899&custom_title=Prem%20Kare's%20Activity%20Graph"/>
+
 </div>
 
 ---
