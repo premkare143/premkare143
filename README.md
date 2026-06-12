@@ -157,7 +157,7 @@ An end-to-end sales analytics project designed to uncover revenue trends, custom
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=premkare143&theme=algolia&no-frame=true&no-bg=false&margin-w=8&margin-h=8&column=4&row=2&title=Commits,Stars,Repositories,Followers,PullRequest,Issues" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/isocalendar?username=premkare143&theme=github_dark" />
 
 <br/>
 
