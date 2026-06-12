@@ -169,6 +169,10 @@ An end-to-end sales analytics project uncovering revenue trends, customer behavi
 
 ### 💬 Let's Build Something Data-Driven
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2200&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=SELECT+insights+FROM+data%3B;df.groupby('category').mean();model.fit(X_train%2C+y_train);plt.plot(revenue%2C+growth);Dashboard.refresh()+%E2%9C%85" alt="Data Analyst Terminal" />
+
+<br/>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,F97316,EC4899,8B5CF6&height=140&section=footer"/>
 
 </div>
