@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2600&pause=900&color=EC4899&center=true&vCenter=true&width=600&lines=Turning+Raw+Data+into+Decisions;Dashboards+that+Tell+a+Story;SQL+%2B+Python+%2B+Power+BI;Always+Exploring%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2600&pause=900&color=EC4899&center=true&vCenter=true&width=600&lines=Turning+Raw+Data+into+Decisions;%F0%9F%A6%85+Spotting+Patterns+Like+a+Falcon;Dashboards+that+Tell+a+Story;SQL+%2B+Python+%2B+Power+BI;Always+Exploring%2C+Always+Building" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -29,7 +29,7 @@ I'm a **Data Analyst** who loves turning messy, raw numbers into clear stories t
 🔹 Digging into data with **EDA & statistical analysis**
 🔹 Translating numbers into **business-ready insights**
 
-> *"Good data tells a story — my job is to make sure people can hear it."*
+> *"Like a falcon scanning the field — sharp focus, fast insight, never missing the pattern that matters."*
 
 </td>
 <td width="40%" valign="top">
