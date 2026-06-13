@@ -1,30 +1,11 @@
 <div align="center">
 
 <!-- HERO SECTION -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0EA5E9,30:6366F1,60:A855F7,100:EC4899&height=220&section=header&text=Prem%20Kare&fontSize=72&fontColor=ffffff&fontAlignY=45&desc=Data%20Analyst%20%7C%20BI%20Engineer%20%7C%20Insight%20Architect&descSize=18&descAlignY=68&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0EA5E9,40:6366F1,70:A855F7,100:EC4899&height=200&section=header&text=Prem%20Kare&fontSize=70&fontColor=ffffff&fontAlignY=55&fontAlign=70&desc=Data%20Analyst%20%7C%20BI%20Engineer%20%7C%20Insight%20Architect&descSize=16&descAlignY=75&descAlign=70"/>
 
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=20&duration=2800&pause=800&color=A855F7&center=true&vCenter=true&width=680&lines=Turning+Raw+Data+into+Decisions+%F0%9F%93%8A;Dashboards+that+actually+Tell+a+Story+%F0%9F%93%96;SQL+%2B+Python+%2B+Power+BI+%3D+Insights+%E2%9A%A1;Always+Exploring%2C+Always+Building+%F0%9F%94%AD" alt="Typing SVG" />
-
-<br/>
-
-<!-- SOCIAL BADGES -->
-<a href="https://in.linkedin.com/in/prem-kare-0861a5274" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/premkare143" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-6E40C9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:premkare143@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=premkare143&color=A855F7&style=for-the-badge&label=Profile+Views)
 
 </div>
 
